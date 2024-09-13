@@ -1,3 +1,6 @@
+20240913: I'm working on a significantly revised version of the initial drawings which will be uploaded in the next week.
+---
+
 # Kyoob3D
 OpenSCAD coding a core XY 3D printer hardware that uses cheap hollow square extrusions for framing, instead of v-slot. It started as a design exercise where I wondered how to maximise layer strength and keep it equal across 3 dimensions. This is the reason for the chamfered corner brackets in the main frame. This chamfer represents the first print layer, keeping the layer distribition and stressors equal in all three axes.
 
